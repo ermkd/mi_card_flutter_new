@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
               ),
             ),
             Text(
-              'CEO of Boolment Software Development',
+              'Developer at Boolment Software Development',
               style: TextStyle(
                 fontFamily: 'Source Sans Pro',
                 color: Colors.white,
@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
                   color: Colors.teal,
                 ),
                 title: Text(
-                  '+91-9158 450 142',
+                  '+91-999823723723',
                   style: TextStyle(
                     color: Colors.teal.shade900,
                     fontFamily: 'Source Sans Pro',
